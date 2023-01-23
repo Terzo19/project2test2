@@ -1,0 +1,58 @@
+body{
+    background-color:rgb(162, 162, 99);
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+h2{
+    color: darkslategrey;
+    font-family: serif;
+    margin: 60px 0px 20px 0px;
+}
+
+/* table CSS */
+
+table{
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+thead{
+    border: 1px solid green;
+}
+
+th{
+    text-transform: uppercase;
+    background-color:grey;
+    font-family: Tahoma, sans-serif;
+}
+
+tbody, tr, td{
+    border: 1px solid transparent;
+}
+
+tr{
+    background-color:moccasin;
+}
+
+td{
+    background-color: moccasin;
+}
+
+.code{
+    background-color:cornflowerblue;
+}
+
+.name{
+    background-color:lightskyblue;
+}
+
+.description{
+    background-color:lightsteelblue;
+}
+
